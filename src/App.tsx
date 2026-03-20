@@ -790,6 +790,7 @@ export default function App() {
               className="page1-background"
             />
             <div className="page1-top-mask" style={abs(0, 0, 402, 290)} />
+            <div className="page1-bottom-fade" style={abs(0, 579, 402, 100)} />
             <AssetLayer asset={ASSETS.page1Title} style={abs(37, 31, 328, 291)} />
 
             <AssetLayer asset={ASSETS.page1VectorRight} style={abs(290.07, 397.07, 23.73, 22.51)} />

@@ -289,6 +289,12 @@ img {
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) -23.33%, rgba(0, 0, 0, 0) 87.08%);
 }
 
+.page1-bottom-fade {
+  position: absolute;
+  background: linear-gradient(180deg, rgba(255, 243, 221, 0) 0%, #fff3dd 100%);
+  pointer-events: none;
+}
+
 .page1-name,
 .page1-footer,
 .page-photo-caption,
